@@ -1,0 +1,17 @@
+h1 {
+    color: maroon;
+}
+
+.post {
+    background-color: rgb(184, 146, 57);
+    font-style: italic;
+
+}
+
+.post h3 {
+    color: rgb(166, 94, 94);
+}
+
+.post h4 {
+    color: yellow;
+}
